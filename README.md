@@ -1,6 +1,9 @@
 # GUI_Calculator1
 This repository is "Graphical User Interface Calculator in Python."
 
+![image](https://user-images.githubusercontent.com/52229554/131227549-39a7e4b1-7a06-4e8e-aad4-452eab41769a.png)
+
+
 
 GUI stands for Graphical User Interface and to create a calculator with GUI feature python has many modules. 
 Tkinter is one of them, it contains all the functions which will be required to create this project.
